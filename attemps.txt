@@ -1,0 +1,22 @@
+j'ai 8 solutions implémentables
+Attempt number 1) : 
+https://www.youtube.com/watch?v=bpHtxx_wmqw
+https://gist.github.com/prof3ssorSt3v3/d7946ea634448c501dd8287cbe3f2c0b
+Attempt number 2) : 
+https://github.com/ritiknagdeve/MOVIE-HUB
+for now, this would be the most promising lead. 
+Attempt number 3) : 
+https://www.freecodecamp.org/news/learn-react-in-1-hour-by-building-a-movie-search-app/
+ 
+Attempt number 4) : 
+https://homehost-demo.herokuapp.com/movies
+https://github.com/ridhwaans/homehost
+Attempt number 5) : 
+https://www.codeforest.net/simple-movie-search-using-php-jquery-and-themoviedb-org-api
+Attempt number 6) : 
+https://github.com/accimeesterlin/movie_app
+https://www.youtube.com/watch?v=mWg2udweauY
+Attempt number 7) : 
+https://codepen.io/shreyashah115/pen/OOKeZO
+Attempt number 8) : 
+https://codepen.io/rogergcc/pen/rrrNdy

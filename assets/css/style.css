@@ -1,0 +1,94 @@
+
+
+.form-group {
+    margin-bottom: 1rem;
+}
+
+
+
+
+#inputValues {
+
+width: 400px;
+font-size: 1rem;
+font-weight: 400;
+line-height: 1.5;
+outline: none;
+color: grey;
+background-color: #fff;
+/*background clip padding box */ 
+border: 1px solid #ced4da;
+border-radius: .25rem;
+
+}
+
+
+#search {
+    color: blue;
+    outline: none; /* this property is used so that the search button do not overlap on the search bar */
+    min-height: 38px;
+    font-weight: 400;
+    text-align: center;
+    cursor: pointer;
+    padding: .375rem .75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: .25rem;
+    margin-bottom: 1px;
+}
+
+
+#movies-searchable {
+
+margin-top: 20px;
+
+
+}
+
+
+section {
+
+display: flex;
+width: 100%;
+overflow: auto;
+
+}
+
+section img {
+
+width: 300px;
+transition: 250ms all;
+
+}
+
+img:hover {
+
+
+margin-left: 0 40px;
+transform: scale(1.2);
+cursor: pointer;
+
+}
+
+.content {
+
+    border: 1px solid red;
+    display: none;
+    }
+    
+.content-display {
+
+    display: block;
+
+}
+
+.content div {
+
+display: flex;
+justify-content: space-around;
+flex-wrap: wrap;
+align-items: center;
+margin: 10px;
+
+}
+

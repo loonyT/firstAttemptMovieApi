@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>moovie app</title>
+    <link rel="stylesheet" href="./assets/css/style.css">
+</head>
+<body>
+   
+
+<div class="container">
+<h1>welcome to the getFlix quest</h1>
+
+<form>
+   <div class="form-groupe">
+<input type="text" id="inputValue">
+    </div>
+
+    <button type="submit" id="search"> Search a movie dude</button>
+</form>
+</div>
+
+
+<!-- whenever you have a form like here, whenyou click enter , the browseris trying to submit the form.     -->
+
+<div id="movies-searchable">
+<div id="movies-container"></div>
+ 
+
+</div>
+<script src="./assets/js/apiTransaction.js"></script>
+<!--Placement of the script here is important because since it is referenced first, it <ill automatically load everything needed for the app.js     -->
+
+    <script src="assets/js/app.js"></script>
+</body>
+</html>
